@@ -14,7 +14,7 @@ print(result)
 """"
 
 - str1 & str2 is "varible name"
-- = is append operator
+- = is assignment operator
 - hello & world is "variable value"
 - Concatenation: You can combine strings using the `+` operator
 
