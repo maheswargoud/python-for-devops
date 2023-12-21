@@ -8,3 +8,11 @@ if search:
     print("Pattern found:", search.group())
 else:
     print("Pattern not found")
+
+
+
+"""
+
+- re (Regular Expressions) like as grep
+
+"""
