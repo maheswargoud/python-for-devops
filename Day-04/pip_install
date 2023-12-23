@@ -19,4 +19,5 @@ pip help
 
 py -m pip --version
 py -m pip install boto3
+py -m pip list
 

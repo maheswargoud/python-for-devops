@@ -112,3 +112,38 @@ source myenv/bin/activate
 ```
 
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
+
+
+
+**LAB:**
+
+py -m pip --version
+py -m pip list
+py -m pip install virtualenv
+py -m venv project-abc
+ls
+py -m venv project-xyz
+ls
+
+
+source project-abc/bin/activate 
+OR
+source project-abc/Scripts/activate
+pip install jira
+pip list | grep jira
+
+deactivate
+
+
+
+source project-xyz/bin/activate 
+OR
+source project-xyz/Scripts/activate
+pip install boto3
+pip list | grep boto3
+
+
+
+
+
+
