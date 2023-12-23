@@ -1,0 +1,18 @@
+python --version
+pip help
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip help
+
+'''
+environment variavble
+path
+C:\Users\mahes\Downloads\python-3.12.1-embed-amd64\Scripts
+
+
+exit terminal & open
+'''
+
+
+pip help
+
