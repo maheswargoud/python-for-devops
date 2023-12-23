@@ -16,3 +16,7 @@ exit terminal & open
 
 pip help
 
+
+py -m pip --version
+py -m pip install boto3
+
