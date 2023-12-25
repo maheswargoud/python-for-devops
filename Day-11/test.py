@@ -6,4 +6,4 @@ response = requests.get("https://api.github.com/repos/kubernetes/kubernetes/pull
 # print(response.status_code)
 
 complete_details = response.json()
-print(compile[0]["id"])
+print(complete_details[0]["id"])
